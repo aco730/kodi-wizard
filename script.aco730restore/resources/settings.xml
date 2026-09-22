@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <section id="script.aco730restore">
+    <category id="general" label="General">
+      <group id="1">
+        <setting id="github_token" type="string" label="GitHub token (repo privat)">
+          <level>0</level>
+          <default></default>
+          <control type="edit" format="string">
+            <heading>GitHub token</heading>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>
